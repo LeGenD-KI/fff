@@ -407,4 +407,4 @@ const listener = app.listen(process.env.PORT, () => {
   console.log("Your app is listening on port " + listener.address().port);
 });
 
-bot.login("TokenHere");
+bot.login("ODE3ODMzMTI3NjY5NjYxNzE3.YEPQdA.xFIcfYZRQjpQu97BamfzTL8rGrs");
